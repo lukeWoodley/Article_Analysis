@@ -17,8 +17,8 @@ This Python project automates the process of analyzing articles using OpenAI's C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lukeWoodley/Article_Analysis.git
-   cd https://github.com/lukeWoodley/Article_Analysis.git
+   git clone https://github.com/lukeWoodley/Article_Analysis
+   cd https://github.com/lukeWoodley/Article_Analysis
    ```
 
 2. Install the required Python packages:
